@@ -1,6 +1,10 @@
 # tangoAnkur.github.io
 
-Welcome to my personal website!  
+Welcome to Ankur's personal website!
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)  
+![Gem Version](https://img.shields.io/gem/v/jekyll-theme-minimal)
+
 Built with [Jekyll](https://jekyllrb.com/) and the **Minimal** theme on GitHub Pages.
 
 This site is a simple and elegant space to showcase my work, share my interests, and highlight key skills in data, cloud, and machine learning.
