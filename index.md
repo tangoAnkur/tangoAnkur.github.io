@@ -4,6 +4,7 @@ title: Ankur Das
 ---
 
 👋 About Me
+
 I’m Ankur Das, a Senior Data Engineer at Mercedes-Benz Research and Development India, where I design and build scalable data solutions that enable smarter decision-making through data extraction, transformation, and analytics.
 
 With over 7 years of experience, I’ve led global teams in managing structured, semi-structured, and unstructured data. My expertise spans Big Data technologies like Apache Spark, Hadoop, Hive, and cloud platforms, along with Python and Power BI for data visualization.
