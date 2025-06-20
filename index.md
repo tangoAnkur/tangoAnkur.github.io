@@ -3,16 +3,17 @@ layout: default
 title: Ankur Das
 ---
 
-👤 About Me
-I’m Ankur Das, currently working as a Senior Data Engineer at Mercedes-Benz Research and Development India (since May 2023). I specialize in building scalable, end-to-end data solutions that enable innovation in data extraction, transformation, and insight generation.
+👋 About Me
+I’m Ankur Das, a Senior Data Engineer at Mercedes-Benz Research and Development India, where I design and build scalable data solutions that enable smarter decision-making through data extraction, transformation, and analytics.
 
-With over 7 years of experience in global data engineering, I have led and collaborated with cross-functional teams to manage and process structured, semi-structured, and unstructured data at scale. My technical expertise includes open-source technologies such as Apache Spark, Hadoop, Hive, and HDFS for Big Data processing, as well as Python and Power BI for data visualization and storytelling.
+With over 7 years of experience, I’ve led global teams in managing structured, semi-structured, and unstructured data. My expertise spans Big Data technologies like Apache Spark, Hadoop, Hive, and cloud platforms, along with Python and Power BI for data visualization.
 
-I’m passionate about the foundational aspects of data engineering — often referring to myself as a “data plumber” who ensures the seamless flow and reliability of data pipelines across complex systems.
+I think of myself as a “data plumber” — connecting diverse data sources and ensuring clean, reliable pipelines that power advanced analytics and machine learning.
 
-Driven by a mindset of lifelong learning and design-oriented development, I approach every challenge with a problem-solving attitude, always prioritizing globally scalable, customer-centric product delivery.
+My approach is grounded in lifelong learning and design-focused development, with a strong emphasis on delivering customer-centric, globally scalable data products.
 
-Prior to joining Mercedes-Benz, I contributed to data platform transformation projects across diverse industries at HSBC, Collabera, Ford Motors, and Altimetrik.
+Previously, I contributed to high-impact data initiatives at HSBC, Collabera, Ford Motors, and Altimetrik.
+
 
 ## Technology Stack
 
