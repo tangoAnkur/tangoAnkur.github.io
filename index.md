@@ -3,17 +3,16 @@ layout: default
 title: Ankur Das
 ---
 
-## About Me
+👤 About Me
+I’m Ankur Das, currently working as a Senior Data Engineer at Mercedes-Benz Research and Development India (since May 2023). I specialize in building scalable, end-to-end data solutions that enable innovation in data extraction, transformation, and insight generation.
 
-I'm Ankur Das, currently working as a Senior Data Engineer at Mercedes-Benz Research and Development India (May 2023 – Present). I specialize in building scalable data solutions and driving innovation in data extraction, mining, and analytical insights.
+With over 7 years of experience in global data engineering, I have led and collaborated with cross-functional teams to manage and process structured, semi-structured, and unstructured data at scale. My technical expertise includes open-source technologies such as Apache Spark, Hadoop, Hive, and HDFS for Big Data processing, as well as Python and Power BI for data visualization and storytelling.
 
-I bring 7 years of experience in managing global data teams working with structured, unstructured, and semi-structured data. I help clients and stakeholders to gain meaningful insights leveraging open-source technologies such as Apache Spark, Hadoop, Hive, for handling Bigdata and Power BI, Python for Vizualization Platfrom.
+I’m passionate about the foundational aspects of data engineering — often referring to myself as a “data plumber” who ensures the seamless flow and reliability of data pipelines across complex systems.
 
-I am passionate about Data Engineering and consider myself a “plumber” in Data Science — connecting diverse data sources and building reliable pipelines.
+Driven by a mindset of lifelong learning and design-oriented development, I approach every challenge with a problem-solving attitude, always prioritizing globally scalable, customer-centric product delivery.
 
-Driven by lifelong learning and design-focused development, I prioritize solving problems with a strong emphasis on globally oriented, customer-centric product delivery.
-
-Before Mercedes-Benz, I’ve contributed to several projects that enhanced data platforms and analytics capabilities across industries like HSBC, Collabera, Ford Motors, Altimetrik.
+Prior to joining Mercedes-Benz, I contributed to data platform transformation projects across diverse industries at HSBC, Collabera, Ford Motors, and Altimetrik.
 
 ## Technology Stack
 
